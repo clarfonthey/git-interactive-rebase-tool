@@ -28,7 +28,7 @@ girt-todo-file = {version = "1.0.0", path = "../../src/todo_file"}
 girt-view = {version = "1.0.0", path = "../../src/view"}
 
 [dependencies.git2]
-version = "0.13.20"
+version = "0.13.25"
 default-features = false
 features = []
 
